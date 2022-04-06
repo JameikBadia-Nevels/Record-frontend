@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+}
+
+.og {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.albumCover{
+  display: flex;
+  flex-wrap: wrap;
+  border-style: groove;
+  border-color: burlywood;
+  margin: 10px;
+}
+
+.tag{
+  flex-wrap: wrap;
+}
